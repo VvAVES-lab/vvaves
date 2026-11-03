@@ -1,0 +1,4 @@
+VvAVES-Preview.zip  test 2734a8f (3 Nov 2026)  sha256 see below
+VvAVES-Stable.zip   main 6ce8862 (27 Oct 2026)
+dc173ab7e01b47fff31696567d432d4f19c76cdc6bba3af77099d21d4fb7d624  VvAVES-Preview.zip
+1e6381d4ea11b9be32c2f1dbc291d7786a8f1c4f35406f408bdb26633c3c77da  VvAVES-Stable.zip

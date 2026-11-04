@@ -1,0 +1,10 @@
+PASS WB1 rain builds a water table: stored groundwater 95.44 m-column total, head under the ridge 6.35 m above the floor
+PASS WB2 a spring appears where the table meets the surface: springs at columns 20..38 (x = 3.0 km); none on the thick upper aquifer: True
+PASS WB3 the valley deepens over the years: 3 yr (erosion x200): mean lowering 0.003 m, deepest cut -0.012 m at column 31, ridge top +0.0000 m
+PASS WB4 slow water drops sediment: a delta grows on the flat foot: foot gained up to 0.049 m; sediment exported 0.003 m-column
+PASS WB5 water and sediment ledgers balance to exactly 0: water error 0 nm, solid error 0 nm (integers); rain in 167.14, evaporated 23.85, left via river 47.05, via seepage 0.41
+PASS WB6 limestone dissolves into karst, sandstone does not: limestone: dissolved 5.366 m-column, conductivity grew x41 at column 37 (porosity 0.173, from 0.05) vs x1.2 under the ridge, so caves open where the water flows; sandstone dissolved 0
+PASS WB7 no rain, no table, no spring, no erosion: all zero
+PASS WB8 same seed same history; other storms differ: identical rerun; seed 8 differs
+
+8/8 pass, 12 s total
